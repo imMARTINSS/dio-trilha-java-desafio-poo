@@ -66,7 +66,7 @@ Todos os arquivos `.java` estão localizados no diretório raiz do projeto para 
 
 O diagrama abaixo ilustra a arquitetura do projeto, mostrando a relação entre a classe `Iphone` e as interfaces que ela implementa.
 
-![Diagrama UML do Projeto iPhone](https://github.com/imMARTINSS/dio-desafio-poo/blob/main/UML-dio-poo.png)
+![Diagrama UML do Projeto iPhone](https://github.com/imMARTINSS/dio-trilha-java-desafio-poo/blob/main/Desafio-dio-trilha-basica-poo/src/diagramaDeClasse.png)
 
 ---
 
