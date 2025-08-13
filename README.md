@@ -47,7 +47,7 @@ Todos os arquivos `.java` estão localizados no diretório raiz do projeto para 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/imMARTINSS/dio-desafio-poo.git](https://github.com/imMARTINSS/dio-trilha-java-desafio-poo.git)
+    git clone https://github.com/imMARTINSS/dio-trilha-java-desafio-poo.git
     ```
 2.  **Navegue até o diretório do projeto.**
 
